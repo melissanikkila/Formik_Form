@@ -9,7 +9,7 @@ A simple React form created using Formik.  This form requests the users Email an
 
 # Installation
 1. Fork the files from this repository.
-2. Open a command line on your computer and run the command cd path/to/project/root, which allows you to point to the root folder of the starter files (note that      path/to/project/root should be replaced with the actual path to the starter files)
+2. Open a command line on your computer and run the command cd path/to/project/root, which allows you to point to the root folder of the starter files (note that      path/to/project/root should be replaced with the actual path to the forked files)
 3. Within the same command-line window, run npm install to install all dependencies
 4. Once the command completes successfully, run npm start to start the application in your browser.
 
